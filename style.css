@@ -19,6 +19,7 @@ h1 span {
 }
 
 h1 {
+  z-index: 999999;
   color: whitesmoke;
   font-size: 10vmin;
   margin-left: 8vmin;
